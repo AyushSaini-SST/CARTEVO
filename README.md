@@ -2,6 +2,20 @@
 
 Cartevo is a full-stack storefront for discovering products across fashion, home, and books. It includes customer accounts, a saved-items list, a shopping cart, order history, and Razorpay checkout.
 
+## Screenshots
+
+| Product catalog | Shopping cart |
+| --- | --- |
+| <img src="docs/images/catalog.png" alt="Cartevo product catalog" width="100%"> | <img src="docs/images/cart.png" alt="Cartevo shopping cart" width="100%"> |
+
+| Order history | Secure checkout |
+| --- | --- |
+| <img src="docs/images/orders.png" alt="Cartevo order history with test order identifiers redacted" width="100%"> | <img src="docs/images/checkout-payment.png" alt="Cartevo checkout with customer details redacted and Razorpay payment options" width="100%"> |
+
+| Sign in |
+| --- |
+| <img src="docs/images/sign-in.png" alt="Cartevo sign-in page" width="100%"> |
+
 ## Stack
 
 - Frontend: React, Vite, React Router, Tailwind CSS
